@@ -1,0 +1,13 @@
+{
+  "name": "simple-web-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "",
+  "devDependencies": {
+    "serve": "^11.1.0"
+  },
+  "scripts": {
+    "server" : "serve -p 5002"
+  }
+}
