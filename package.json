@@ -8,6 +8,6 @@
     "serve": "^11.1.0"
   },
   "scripts": {
-    "server" : "serve -p 5002"
+    "server": "serve -p 5002"
   }
 }
