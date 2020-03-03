@@ -31,5 +31,5 @@ if (cluster.isMaster) {
     })
     .listen(8000);
 
-  console.log(`Worker ${process.pid} started`);
+  console.log(`Worker ${process.pid} started, serving http://localhost:8000`);
 }
