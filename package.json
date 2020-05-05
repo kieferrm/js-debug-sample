@@ -5,7 +5,8 @@
   "main": "main.js",
   "author": "",
   "devDependencies": {
-    "serve": "^11.1.0"
+    "serve": "^11.1.0",
+    "damlev": "1.0.0"
   },
   "scripts": {
     "server": "serve -p 5002"
