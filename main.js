@@ -20,3 +20,5 @@ worker.onmessage = function(e) {
   // You are back in main!
   result.textContent = e.data;
 }
+
+// go to https://github.com/kieferrm/js-debug-sample/blob/master/main.js
